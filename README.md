@@ -6,9 +6,6 @@ This repository contains custom MCP servers and clients.
 ### Installation
 
 
-
-### Example MCP config JSON
-
 To use this server from an MCP-compatible client, add an entry like this to your MCP servers configuration JSON:
 
 ```json
