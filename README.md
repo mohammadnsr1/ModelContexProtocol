@@ -2,7 +2,6 @@
 
 This repository contains custom MCP servers and clients.
 
-
 ### Installation
 
 
